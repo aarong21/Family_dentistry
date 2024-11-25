@@ -1,0 +1,14 @@
+:root {
+    /* marine */
+    --color-primary: #4a5661;
+    /* sage */
+    --color-secondary: #a1b0a2;
+    /* forest */
+    --color-accent: #676c62;
+    /* ivory */
+    --color-background: #f5f6f2;
+    /* blush */
+    --color-text: #eee1d9;
+    /* beige */
+    --color-muted: #e0ded2;
+}
